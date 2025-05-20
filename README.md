@@ -30,20 +30,29 @@ As a hypothetical applicant for this role, I was tasked with:
 4. **Actionable Insights**:
    - Provided actionable insights and recommendations to assist the management team in making informed decisions.
 
-## Outcome
+---
+## Tools and Technologies Used
+**SQL:** For querying databases and retrieving insights.
+ -Joins
+ -Subqueries
+ -Common Table Expressions (CTE)
+ -Window Functions
+**PowerBI:** For creating interactive and insightful visualizations.
+ -Creating measures
+ -Custom columns
+ -Various types of visuals
 
-This project showed my ability to work with complex data queries and share findings in a clear and engaging way. It helped me improve both my technical skills and my ability to explain insights effectively.
+ ---
+ 
+## Insights
+The insights provided from this project cover all aspects of the company's business, including:
 
-## Files in this Repository
-
-- **ad-hoc-requests.pdf**: Document containing the 10 ad hoc business requests.
-- **SQL Queries**: Folder containing SQL scripts used to extract data.
-- **Power BI Visualizations**: Folder containing Power BI files with data visualizations.
-- **Presentation**: PowerPoint file showcasing insights and recommendations.
-
+- Sales Performance: Analysis of sales data across different regions and time periods.
+- Product Analysis: Insights into product popularity, performance, and inventory levels.
+- Customer Behavior: Understanding customer purchasing patterns and preferences.
+- Operational Efficiency: Evaluating operational metrics to identify areas for improvement.
+- Market Trends: Analysis of market data to identify trends and opportunities.
 
 ---
 
 This project highlights my skills in data analysis, SQL querying, data visualization, and presentation design in a business setting. It demonstrates my ability to extract and present actionable insights from data, supporting data-driven decision-making in a corporate environment.
-
-can u give beautiful emojis to this readme file github code
