@@ -41,19 +41,9 @@ This project showed my ability to work with complex data queries and share findi
 - **Power BI Visualizations**: Folder containing Power BI files with data visualizations.
 - **Presentation**: PowerPoint file showcasing insights and recommendations.
 
-## How to Use
-
-1. **SQL Queries**:
-   - Navigate to the `SQL Queries` folder.
-   - Run the SQL scripts in your MySQL environment to extract the necessary data.
-   
-2. **Power BI Visualizations**:
-   - Open the Power BI files in Power BI Desktop to view the visualizations.
-   
-3. **Presentation**:
-   - Open the PowerPoint file to view the presentation designed for top-level management.
-
 
 ---
 
 This project highlights my skills in data analysis, SQL querying, data visualization, and presentation design in a business setting. It demonstrates my ability to extract and present actionable insights from data, supporting data-driven decision-making in a corporate environment.
+
+can u give beautiful emojis to this readme file github code
